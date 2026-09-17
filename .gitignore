@@ -9,10 +9,10 @@ __pycache__/
 venv/
 
 # Models
-models/
-*.gguf
-*.bin
-*.safetensors
+# models/
+# *.gguf
+# *.bin
+# *.safetensors
 
 # Training outputs
 results/
